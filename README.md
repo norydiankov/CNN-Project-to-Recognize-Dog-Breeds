@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-# Reinforcement Learning
+# Deep Learning
 ## Project: CNN Project to Recognize Dog Breeds
 
 ### Project Overview
